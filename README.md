@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carrmenyew
 - 👀 I’m interested in baking cookies
-- 🌱 I’m currently learning UI/UX design
-- 💞️ I’m looking to collaborate on branding and design
+- 🌱 I’m currently a Product Designer
+- 💞️ I’m looking to collaborate on new products
 - 📫 How to reach me on Instagram - @bycarrmen
 
 <!---
